@@ -20,7 +20,7 @@ import {
 } from 'lucide-react';
 
 // --- Configuration & Constants ---
-const apiKey = process.env.REACT_APP_MY_API_KEY; // Provided by environment
+const apiKey = import.meta.env.VITE_API_KEY; // Provided by environment
 const MODEL_NAME = "gemini-2.5-flash-preview-09-2025";
 
 const MODES = [
