@@ -1,0 +1,2 @@
+# codeFriendlyAI
+I just built CodeFriendlyAI, a project that turns your thoughts—and your screenshots—into code instantly!  Features: 💻Smart Prompting: Need a full-stack or a simple React landing page? Just ask. It handles the Frontend, Backend, or both.📸Image-to-Code: Upload an image of any website or UI design, and it generates the exact code to recreate that. 
