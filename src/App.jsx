@@ -21,7 +21,7 @@ import {
 
 // --- Configuration & Constants ---
 const apiKey = import.meta.env.VITE_API_KEY;// Provided by environment
-const MODEL_NAME = "gemini-2.5-flash-preview-09-2025";
+const MODEL_NAME = "gemini-2.5-flash";
 
 const MODES = [
   { id: 'frontend', label: 'Frontend', icon: Monitor },
@@ -39,7 +39,7 @@ const TECH_SKILLS = [
   { id: 'express', label: 'Express', category: 'backend' },
   { id: 'nest', label: 'Nest.js', category: 'backend' },
   { id: 'mongodb', label: 'MongoDB', category: 'database' },
-  { id: 'postgresql', label: 'PostgreSQL', category: 'database' },
+  { id: 'postgresql', label: 'PostgreSQL', category: 'Database' },
 ];
 
 export default function App() {
